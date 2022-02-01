@@ -15,6 +15,7 @@ Cloudflare Worker scripts
 ## example
 
 - [https://github.com/cloudflare/worker-examples](https://github.com/cloudflare/worker-examples)
+- [使用 Cloudflare Workers 加速镜像下载](https://lework.github.io/2020/06/11/workers/)
 
 ## limit
 
